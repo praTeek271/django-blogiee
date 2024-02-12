@@ -11,4 +11,4 @@ This Repo consists of the following files :
 - requirements.txt
 ----This is a test repository created by @prateek271
 
-- can be used for any file
+- uses selenium
