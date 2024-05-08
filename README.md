@@ -22,4 +22,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses git
+- can be used for any file
