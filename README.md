@@ -22,4 +22,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses git
+- this is a test repo
